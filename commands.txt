@@ -1,0 +1,5 @@
+# to create react app (make sure node js is installed in the system)
+npx create-react-app <foldername>
+
+# to launch the project
+npm start
