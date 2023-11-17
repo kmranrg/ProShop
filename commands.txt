@@ -3,3 +3,6 @@ npx create-react-app <foldername>
 
 # to launch the project
 npm start
+
+# to install bootstrap and react icons
+npm i react-bootstrap bootstrap react-icons
