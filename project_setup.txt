@@ -1,0 +1,17 @@
+# Softwares to Install
+
+- VS Code
+- Postman
+- NodeJS
+
+# Chrome Extensions
+
+- Redux Dev Tools
+- React Developer Tools
+
+# VS Code Extensions
+
+- Prettier - Code formatter
+- ES7+ React/Redux/React-Native snippets
+- JavaScript (ES6) code snippets
+- GitHub Copilot
