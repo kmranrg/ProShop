@@ -6,3 +6,9 @@ npm start
 
 # to install bootstrap and react icons
 npm i react-bootstrap bootstrap react-icons
+
+# to install react-router-dom
+npm i react-router-dom
+
+# to install react-router-bootstrap
+npm i react-router-bootstrap
