@@ -12,3 +12,34 @@ npm i react-router-dom
 
 # to install react-router-bootstrap
 npm i react-router-bootstrap
+
+# npm initialize
+npm init
+package name: (proshop) 
+version: (1.0.0) 2.0.0
+description: eCommerce application built with MERN stack
+entry point: (index.js) server.js
+test command: 
+git repository: 
+keywords: 
+author: Kumar Anurag
+license: (ISC) MIT
+About to write to /Users/kan/Documents/kan_work/ProShop/package.json:
+{
+  "name": "proshop",
+  "version": "2.0.0",
+  "description": "eCommerce application built with MERN stack",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kumar Anurag",
+  "license": "MIT"
+}
+Is this OK? (yes) 
+Note:
+1) Make sure to add this in package.json below description -> "type": "module",
+2) Also, add this in package.json, inside scripts object -> "start": "node backend/server.js"
+
+# to install express module
+npm i express
